@@ -1,0 +1,35 @@
+header {
+    background-color: blanchedalmond;
+    color:rgb(0, 0, 0);
+    font-family: sans-serif;
+    padding: 28px;
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   
+}
+nav ul li {
+    float: left;
+}
+li a {
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 0.5rem;
+    text-decoration: none;
+    background-color:rgb(248, 216, 173);
+
+}
+li a:hover {
+    background-color: antiquewhite;
+
+}
+.raedyouruncle li {
+    font-size: large;
+    list-style-type:disc;
+    font-family: sans-serif;
+}
